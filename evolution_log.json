@@ -1,0 +1,3044 @@
+{
+  "history": [
+    {
+      "generation": 0,
+      "avg_score": 0.7169165165165164,
+      "max_score": 0.736,
+      "best_seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGATATGGCATGCTGCTAGCTGACT",
+          "type": "sub",
+          "pos": 14,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 1,
+      "avg_score": 0.7210507757757758,
+      "max_score": 0.736,
+      "best_seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGACATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGATGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGACTGCTGCTGAAATGGCATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTTCTAGCTGACA",
+          "type": "sub",
+          "pos": 35,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 2,
+      "avg_score": 0.7275495804628158,
+      "max_score": 0.736,
+      "best_seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGACATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGATGCTAGCTGAGT",
+          "type": "sub",
+          "pos": 34,
+          "base": "G"
+        },
+        {
+          "seq": "ATGACTGCTGCTGAAATGGCATGCTGCTAGCTGCT",
+          "type": "del",
+          "pos": 33,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGACATGCTTCTAGCTGACA",
+          "type": "ins",
+          "pos": 19,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 3,
+      "avg_score": 0.7286272166903746,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGACATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGATGCTAGCTGAGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCACGTTGCTAGCTGACT",
+          "type": "sub",
+          "pos": 21,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAATGGGCATGTTGCTAGCTGACT",
+          "type": "ins",
+          "pos": 19,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 4,
+      "avg_score": 0.7304469547601901,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGACATGCTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGATGCTAGCTGAGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTTGCTGCTGAAATGGCATGCTGCTAACTGACT",
+          "type": "sub",
+          "pos": 29,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 5,
+      "avg_score": 0.7275894894894894,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 3,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCGATT",
+          "type": "del",
+          "pos": 31,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACT",
+          "type": "sub",
+          "pos": 18,
+          "base": "G"
+        },
+        {
+          "seq": "ATGTCTGCTGCTGAAATGGCATGATGCTAGCTGAGT",
+          "type": "sub",
+          "pos": 3,
+          "base": "T"
+        },
+        {
+          "seq": "ATGACTGCTGCTGAAATGGCATGCTCCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 6,
+      "avg_score": 0.7299739634371213,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGATGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 24,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGACTGCTGCTGAAATGGCATGCTCCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAATTGGCAAGCTGCTAGCTGATT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAATGGCATGTTGCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 7,
+      "avg_score": 0.7309385635635636,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGACTGCTGCTGAAATGGCATGCTCCTAGCTGACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAATTGGCAAGGTGCTAGCTGATT",
+          "type": "sub",
+          "pos": 23,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 8,
+      "avg_score": 0.7296523418154996,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "sub",
+          "pos": 28,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGTTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 8,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 9,
+      "avg_score": 0.7311067935344251,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGACAATGGCATGCTGCTAGCTGTACT",
+          "type": "ins",
+          "pos": 15,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 10,
+      "avg_score": 0.7295338073903863,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTAGTACT",
+          "type": "ins",
+          "pos": 33,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 11,
+      "avg_score": 0.7318398372056266,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "sub",
+          "pos": 11,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGGATGCTGCTAGGTGTACT",
+          "type": "sub",
+          "pos": 20,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGATAGCTGTACT",
+          "type": "sub",
+          "pos": 27,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCACTGCTCCTGAAATGGCTTGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 12,
+      "avg_score": 0.7296111156703262,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "AGGCACTGCTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 1,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGGATGCTGCTAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTCCTGAAATGGCTTGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCGGCAAGGTGTACT",
+          "type": "sub",
+          "pos": 25,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 13,
+      "avg_score": 0.7315368354184144,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTCCTGAAATGGCTTGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTTTACT",
+          "type": "sub",
+          "pos": 33,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGGATGCTGCTAGGTGGACT",
+          "type": "sub",
+          "pos": 34,
+          "base": "G"
+        },
+        {
+          "seq": "ATGCACTGCTCCTGAAATGGCTTGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCAAGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCAAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 14,
+      "avg_score": 0.732637331157068,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGCCAAGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTCCTGAAATGACTTGCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 19,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCAAGCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 19,
+          "base": "C"
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCATGCTGCAAGCTGTACT",
+          "type": "del",
+          "pos": 18,
+          "base": "G"
+        },
+        {
+          "seq": "ATGCACTGTTGCTGAAATGGCATGCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 8,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCAAGGTGTTCTG",
+          "type": "ins",
+          "pos": 38,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 15,
+      "avg_score": 0.7312425605767711,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGCCAAGCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCAAGCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCATGCTGCAACGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AAGGACTGCTGCTGAAATGGCACGCTGCTAGGTGTACT",
+          "type": "sub",
+          "pos": 22,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 16,
+      "avg_score": 0.7319903882627566,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCAGCTGAAATGGCATGCTGCAACGTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCAAGCTGTCTAGCTGTACT",
+          "type": "ins",
+          "pos": 27,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGCAGCTGAAATGGCATGCTGCAACGTGTACT",
+          "type": "sub",
+          "pos": 9,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCAGGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 22,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTGCTGTACT",
+          "type": "del",
+          "pos": 29,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 17,
+      "avg_score": 0.7313425943149627,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCAGCTGAAATGACATGCTGCAACGTGTACT",
+          "type": "sub",
+          "pos": 19,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCGTGCTGCTAGGTGTACA",
+          "type": "sub",
+          "pos": 21,
+          "base": "G"
+        },
+        {
+          "seq": "ATGCACTGCTCCTGAAATGGCTTGCTGCTAGCAGTACTT",
+          "type": "ins",
+          "pos": 38,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCAGTGCTGCGGAAATGGCAAGCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 12,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 18,
+      "avg_score": 0.732861407156144,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGGTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGCTGGGTGAAAAGGCATGCTGCAAGGTGTACT",
+          "type": "ins",
+          "pos": 11,
+          "base": "G"
+        },
+        {
+          "seq": "ATGCACTGCTCCTGAAATGGCTTGCTGCTAGCAGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 19,
+      "avg_score": 0.732413255157992,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGGCATGGTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGGTAAATGGCATGCTGCAAGGTGTACT",
+          "type": "del",
+          "pos": 13,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTTGCATGCTGCAAGCTGTACT",
+          "type": "sub",
+          "pos": 18,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGGTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTCCTGAAATGGCTGCTGCTAGCAGTACT",
+          "type": "del",
+          "pos": 21,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 20,
+      "avg_score": 0.7300478574728575,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGGCATGGTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGGCATGGTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 15,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTCTGGTGAAATGGCATGCTGCAAGGTGTACT",
+          "type": "del",
+          "pos": 7,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAAATGCCATGCTGCATGGTGTACT",
+          "type": "sub",
+          "pos": 19,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGAAAAGGCATGCTGCAAGGTGTTCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 21,
+      "avg_score": 0.732653889922311,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGTCATGGTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 19,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAAATGCCATGCTGCTGGTGTACT",
+          "type": "del",
+          "pos": 28,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGAAAAGGCATGCTGCAAGGTGTTCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 22,
+      "avg_score": 0.731848723419776,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGAAAAGGCATGCTGCAAGGTGTTCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCAGCTGCAAGGTGTACT",
+          "type": "del",
+          "pos": 22,
+          "base": "T"
+        },
+        {
+          "seq": "TTGCAGTGCTGTTGAAATCGCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 11,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGTCTGATGGTGAATTGGCATGCTGCAAGCTGTACT",
+          "type": "sub",
+          "pos": 8,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 23,
+      "avg_score": 0.7327783577099367,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGAAAAGGCATGCTGCAAGGTGTTCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAAATGGCATGCTGCAGGTGTACT",
+          "type": "del",
+          "pos": 28,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGCTGCTAAATGGCTTGCTGCAAGGTGAACT",
+          "type": "del",
+          "pos": 13,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 24,
+      "avg_score": 0.7332265097080887,
+      "max_score": 0.738,
+      "best_seq": "ATGGAGTGGTGGTGAAAAGGCATGCTGCAAGGTGTTCT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGATATGGCATGCTGCTACCCGTACT",
+          "type": "sub",
+          "pos": 32,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGAAAAGGCATGCTGCAAGGTGTTCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 25,
+      "avg_score": 0.7306954386572807,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGAGTGGTCGGTGAAAAGGCATGCTGCAAGGTGTTCT",
+          "type": "ins",
+          "pos": 10,
+          "base": "C"
+        },
+        {
+          "seq": "ATGCACAGATGCTGAAATGGCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 8,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATTGACAGCTGGTGAAATGGCATGCTGCAAGGAGTACT",
+          "type": "sub",
+          "pos": 2,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 26,
+      "avg_score": 0.7343392271826482,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGCAGGTGAGTTGGCATGCTGCAAGCTGTAGT",
+          "type": "sub",
+          "pos": 15,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGAAAAGGCATGTTGCAACGTGTTCT",
+          "type": "sub",
+          "pos": 24,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 27,
+      "avg_score": 0.7353098542874859,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGCTGGTGAATTGGCTTGCTGCAAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 28,
+      "avg_score": 0.732720593366646,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGCTGGTGAATTGGCTTGCTGCAAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTCAAATGGCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 13,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 29,
+      "avg_score": 0.7330026464723833,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGCTGGTGAATTGGCTTGCTGCAAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTCAACTGGCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 16,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 30,
+      "avg_score": 0.7319903882627566,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTGCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGCTGGTGAATTGGCTTGCTGCAAGCTGAACT",
+          "type": "sub",
+          "pos": 34,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTCCAAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 31,
+      "avg_score": 0.7336916459982249,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 7,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGCTGGTGAATTGGCTTGCTGCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTCCAAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 32,
+      "avg_score": 0.7315256774993617,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTGCAAGGTGTAAT",
+          "type": "sub",
+          "pos": 36,
+          "base": "A"
+        },
+        {
+          "seq": "ATGAACTGCTGCTGATATGGCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 3,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGTCTGCTGGTGAATTGGCTTGCTGCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATTGGCATGCTCCCAGCTGTACT",
+          "type": "sub",
+          "pos": 28,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 33,
+      "avg_score": 0.7310431313904998,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGCTGGTGAATTGGCTTGCTGCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAATCTGGCATGCTCCAAGCTGAACT",
+          "type": "ins",
+          "pos": 17,
+          "base": "C"
+        },
+        {
+          "seq": "ATGCTCTGTTGGTGAATTGCCTTGCTGCAAGCTGTAGT",
+          "type": "sub",
+          "pos": 8,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATGGCATGCTGCGACCTGTACT",
+          "type": "sub",
+          "pos": 28,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 34,
+      "avg_score": 0.7333679617876986,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGTCTGGTGAATTGGCTTGCTGCAAGCTGAACT",
+          "type": "ins",
+          "pos": 8,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGGCTTGCTCCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGACAGCAGGTGAAATGGCAACCTGCAAGGTGTACA",
+          "type": "sub",
+          "pos": 6,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 35,
+      "avg_score": 0.7303717544467544,
+      "max_score": 0.738,
+      "best_seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTCCTGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGTAATGGCTTGCTCCAAGGTGTACT",
+          "type": "sub",
+          "pos": 14,
+          "base": "T"
+        },
+        {
+          "seq": "ATCGACAGCAGGTGAAATGGCAACCCTGCAAGGTGTACA",
+          "type": "ins",
+          "pos": 25,
+          "base": "C"
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATGGCATGCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATGGCATCCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 36,
+      "avg_score": 0.7333259051561684,
+      "max_score": 0.738,
+      "best_seq": "ATGCACAGCTGCTGAAATGGCATCCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCACTCCCGCTGAAATGCCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 9,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGTAATGGCTTGCTTCAAGGTGTACT",
+          "type": "sub",
+          "pos": 26,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATTGGCATGCTGCTACCTGTACT",
+          "type": "ins",
+          "pos": 17,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATGGCATCCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTGAATCGGCATGCAGCAAGGTGTACT",
+          "type": "sub",
+          "pos": 17,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 37,
+      "avg_score": 0.7336916459982249,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 0,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAATTGGCATGCTCCAAGCTGAAGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCCACTCCTGCTAAAATGCCATGCTGCTACCTGTTCT",
+          "type": "sub",
+          "pos": 13,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACACCTGGTGTAATGGCAAGCTGCAAGGAGTAGT",
+          "type": "sub",
+          "pos": 22,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAATTGGCATGCTCCAAGCTGAAGT",
+          "type": "sub",
+          "pos": 36,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 38,
+      "avg_score": 0.7295833594728331,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTACCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTACCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAGTTGGCATGCTCCAAGCTGAAGT",
+          "type": "sub",
+          "pos": 15,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACACCTGGTTAATGGCAAGCTGCAAGGAGTAGT",
+          "type": "del",
+          "pos": 13,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAATTGGCATGCTCCAAGCTGAAGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATAGACTGCTGCTCAAATGGGTTGCTCCATGGTGTACT",
+          "type": "sub",
+          "pos": 2,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 39,
+      "avg_score": 0.7331855168934116,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGGTGGTGAATTGGCATGCTCCAAGCTGAAGT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCGGCTGAAATGGCATCCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 9,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAATTGGCATGCTCCAAGCTGAAGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGACAGCAGGAGAAATGGCAACCTGCAAGGTGTACA",
+          "type": "sub",
+          "pos": 12,
+          "base": "A"
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCCACTCCTGCTGAAATGTCATGCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 19,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 40,
+      "avg_score": 0.7315664575506681,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGGTGGTGAGTTGGCATGCTCCAAGCTGAAGT",
+          "type": "sub",
+          "pos": 15,
+          "base": "G"
+        },
+        {
+          "seq": "ATTGACAGCAGGAGAAATGGCAACCTGCAAGGTGTACA",
+          "type": "sub",
+          "pos": 2,
+          "base": "T"
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGATATGGCATGCTGCTACCTGTAGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTCATATGGCATGGTGCTACCTGTTCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 41,
+      "avg_score": 0.7331438857886227,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGATATGGCATGCATGCTACCTGTAGT",
+          "type": "ins",
+          "pos": 25,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGCTGGTCATATGGCATGGTGCTACCTGTTCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGTAATGGCTTGCTCCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCCACCTGCTGAAATCGCATGCTGCTACCTGTACT",
+          "type": "sub",
+          "pos": 4,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 42,
+      "avg_score": 0.732538148472359,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGGTCATATGGGCATGGTGCTACCTGTTCT",
+          "type": "ins",
+          "pos": 19,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGCTGCAGTAATGGCTTGCTCCAAGGTGTACT",
+          "type": "sub",
+          "pos": 12,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAATTGGCAAGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 43,
+      "avg_score": 0.7336094476055002,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCAGTAATGGCTTGCTCCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAATTGGCCAGCTCCAAGCTGAACT",
+          "type": "sub",
+          "pos": 21,
+          "base": "C"
+        },
+        {
+          "seq": "ATCGACAGCAGGTGAAATGGCAACCAGCAACGTGTACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 44,
+      "avg_score": 0.7307366442353285,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCAGTAATGGCTTGCTCCAAGGTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCGCTAGCTGTACT",
+          "type": "del",
+          "pos": 25,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGCTGCAGTAATGGCTTGCTCCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGACAGCAGGTGAAATGGCAACCAGCAACGTGTACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AAGGACTGGTGGTGAATTGGCATGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 45,
+      "avg_score": 0.733367749024328,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACCGCTGCAGTAATGGCTTGCTCCAAGGTGTACT",
+          "type": "sub",
+          "pos": 6,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGACAGCAGGTGAAATGGCAACCAGCAACGTGTACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AAGGACTGGTGGTGAATTGGCATGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 46,
+      "avg_score": 0.7306374615506195,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGACATCAGGTGAAATGGCAACCAGCAACGTGTACA",
+          "type": "sub",
+          "pos": 7,
+          "base": "T"
+        },
+        {
+          "seq": "AAGGACTGGTGGTGAATTGCCATGCTCCAAGCTGAACT",
+          "type": "sub",
+          "pos": 19,
+          "base": "C"
+        },
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGAATTTGCATGCTCCAAGCTGAACA",
+          "type": "sub",
+          "pos": 18,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 47,
+      "avg_score": 0.7323969091561197,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AAGGACTGGTGGTGAATTGCCGTGCTCCAAGCTGAACT",
+          "type": "sub",
+          "pos": 21,
+          "base": "G"
+        },
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATCGCATCCTGCTAGCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGGTGCTGAAATGGCATTCTGCTAGGTGTACT",
+          "type": "sub",
+          "pos": 23,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 48,
+      "avg_score": 0.7325959128156496,
+      "max_score": 0.738,
+      "best_seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGACCTTGCTCCAAGGTGAACT",
+          "type": "ins",
+          "pos": 19,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATCGCATCCTGCTAGCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGTGACTGCTGGTCATATGCCATGGTGCTACCTGTTCT",
+          "type": "ins",
+          "pos": 3,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCATCCTCCAAGCTGATCT",
+          "type": "sub",
+          "pos": 23,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 49,
+      "avg_score": 0.732089996474207,
+      "max_score": 0.738,
+      "best_seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATCGCATCCTGCTAGCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCATCCTCCAAGCTGATCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AAGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGTAATGGCTTGCTCCAAGGTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 50,
+      "avg_score": 0.7320322321309163,
+      "max_score": 0.738,
+      "best_seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCGCATCCTGCTAGCAGAACT",
+          "type": "sub",
+          "pos": 2,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGCTTTGGCATCCTCCAAGCTGATCT",
+          "type": "sub",
+          "pos": 14,
+          "base": "C"
+        },
+        {
+          "seq": "AAGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGCTGCTGTAATGGCTTGCTCCAAGGTATACT",
+          "type": "sub",
+          "pos": 33,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 51,
+      "avg_score": 0.7334679955258903,
+      "max_score": 0.738,
+      "best_seq": "AAGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCAGGCTGCTACCTCTACT",
+          "type": "sub",
+          "pos": 22,
+          "base": "G"
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCGCCTCCTGCTAGCAGAACT",
+          "type": "sub",
+          "pos": 21,
+          "base": "C"
+        },
+        {
+          "seq": "AAGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCTGTCCTCCTGAAATGCCATGCTGCTACCTCTACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTCTGCTGGTCAAATGGCATGTGCTACCTGTTCT",
+          "type": "del",
+          "pos": 24,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 52,
+      "avg_score": 0.7346626986298039,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "AAGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTAGAACT",
+          "type": "ins",
+          "pos": 33,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCTGTCCTTCTGAAATGCCATGCTGCTACCTCTACA",
+          "type": "sub",
+          "pos": 10,
+          "base": "T"
+        },
+        {
+          "seq": "AAGGACTGGATGGTGTATTGGCTTGCTCCAAGCAGAACA",
+          "type": "ins",
+          "pos": 9,
+          "base": "A"
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATGGCATCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCATGCTCCAAGCAGATCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 53,
+      "avg_score": 0.7315664575506681,
+      "max_score": 0.738,
+      "best_seq": "ATGGAGTGGTGGTGATTTGGCATGCTCCAAGCAGATCT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATAGCATCCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 18,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCATGCTCCAAGCAGATCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATCGCATTCTGCTACCAGAACT",
+          "type": "sub",
+          "pos": 23,
+          "base": "T"
+        },
+        {
+          "seq": "TTGCACAGGTGCTGAATTGGCATCCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 9,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 54,
+      "avg_score": 0.7311180927891454,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCATGCTCCAGCAGATCT",
+          "type": "del",
+          "pos": 28,
+          "base": "A"
+        },
+        {
+          "seq": "TTGCACAGGTGCTGAATTTGGCATCCTGCTAGCTGTACT",
+          "type": "ins",
+          "pos": 18,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCTGTCCTGCTGAAATGCCATGCTGCTACTCTACT",
+          "type": "del",
+          "pos": 30,
+          "base": "C"
+        },
+        {
+          "seq": "ATCCACAGCAGGTGAAATGGCAACTAGCAACGTGTACA",
+          "type": "sub",
+          "pos": 24,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 55,
+      "avg_score": 0.7318489361831467,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTGCTCCAAGGTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCTGTCGTCCTGAAATGCCATGCTGCAACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCTTCCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 21,
+          "base": "T"
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 56,
+      "avg_score": 0.7312434116302537,
+      "max_score": 0.738,
+      "best_seq": "ATGCTGTCGTCCTGAAATGCCATGCTGCAACCTCTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGCTGCTGAAATGCCTTTCTCCAAGGTGAACT",
+          "type": "sub",
+          "pos": 23,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCTGTCGTCCTGAAATGCCATGCTGCAACCTCTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCTTCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGAACA",
+          "type": "sub",
+          "pos": 37,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 57,
+      "avg_score": 0.7308364652101494,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGGAGCTGAATTGGCTTCCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGCTGTCGTCCTGAAATGCCATGCTGCAACCTCTATT",
+          "type": "sub",
+          "pos": 36,
+          "base": "T"
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCTTCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGATCA",
+          "type": "sub",
+          "pos": 35,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGATGAACT",
+          "type": "sub",
+          "pos": 31,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGTCTGCTGGTCATATGGCATGTTGCAACCTGTTCT",
+          "type": "sub",
+          "pos": 24,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 58,
+      "avg_score": 0.7313434453684453,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGGAGCTGAATTGGCTTCCTGCTAGCTGTACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCTTCCTGCTAGCTGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGATCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTCCTACCAGAACT",
+          "type": "sub",
+          "pos": 26,
+          "base": "C"
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATCGCATCCTGCTACCAGACCT",
+          "type": "sub",
+          "pos": 35,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGGACT",
+          "type": "sub",
+          "pos": 34,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 59,
+      "avg_score": 0.7309777045263888,
+      "max_score": 0.738,
+      "best_seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGATCA",
+      "mutations_sample": [
+        {
+          "seq": "TTGCATAGGAGCTGAATTGGCTTCCTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 5,
+          "base": "T"
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGATCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAACATCGCATCCTCCTACCAGAACT",
+          "type": "ins",
+          "pos": 16,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCATGGTCCAAGCAGATCT",
+          "type": "sub",
+          "pos": 24,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 60,
+      "avg_score": 0.732554707237602,
+      "max_score": 0.738,
+      "best_seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGATCA",
+      "mutations_sample": [
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGATCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCATGGCCAAGCAGATCT",
+          "type": "del",
+          "pos": 25,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGAACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCAGAGCTGCTGAAATCGCATCCTGCTACCATAACT",
+          "type": "sub",
+          "pos": 33,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 61,
+      "avg_score": 0.7320725866554814,
+      "max_score": 0.738,
+      "best_seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGAACA",
+      "mutations_sample": [
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGATA",
+          "type": "del",
+          "pos": 36,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGGCTGAACT",
+          "type": "ins",
+          "pos": 31,
+          "base": "G"
+        },
+        {
+          "seq": "ATCCACAGCTGCTGAAATCCCATCCTGCTAGCAGAACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCTCGTGCTAGCTGTACA",
+          "type": "del",
+          "pos": 21,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGAATTAGGCATGCTCCAAGCAGATCT",
+          "type": "ins",
+          "pos": 14,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 62,
+      "avg_score": 0.7313425943149627,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATCCACAGCTCTGAAATCCCATCCTGCTAGCAGAACA",
+          "type": "del",
+          "pos": 10,
+          "base": "G"
+        },
+        {
+          "seq": "TCCACAGCAGGTGTAATGGGAACCTGCAACGTGTACA",
+          "type": "del",
+          "pos": 0,
+          "base": "T"
+        },
+        {
+          "seq": "ATCCACAGGTGCTGATATCCCATCCTGCTAGCATAACT",
+          "type": "sub",
+          "pos": 33,
+          "base": "T"
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCACAGCTGCTGAAATCGGATCCTGCTACCAGAACT",
+          "type": "sub",
+          "pos": 20,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 63,
+      "avg_score": 0.7299652335533915,
+      "max_score": 0.738,
+      "best_seq": "ATGGAGTGGTGGTGATTTGGCAAGCTCCAAGCAGATCA",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGCACT",
+          "type": "sub",
+          "pos": 34,
+          "base": "C"
+        },
+        {
+          "seq": "ATGCACAGCTGCCGAAATCGGATCCTGCTACCAGAACT",
+          "type": "sub",
+          "pos": 12,
+          "base": "C"
+        },
+        {
+          "seq": "ATCGAGTGGTGGTGATTTGGCATGCTCCAAGCAGCTCT",
+          "type": "sub",
+          "pos": 34,
+          "base": "C"
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCTTCCTGCTAGCTTACT",
+          "type": "del",
+          "pos": 33,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCAAGCTCCAAGCAGATCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 64,
+      "avg_score": 0.7301721124971126,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGGTCGTGTTTTGGCTTGCTGCAAGCTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCAAGCTCCAAGCGGATCA",
+          "type": "sub",
+          "pos": 32,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGGTCGTGTTTTGGCTTGCTGCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATGGGCATCGTGCTAGCTGTACT",
+          "type": "sub",
+          "pos": 17,
+          "base": "G"
+        },
+        {
+          "seq": "ATCCACTGCTGCTGAAATCCCATCCTGCTAGCAGATCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGTGATATGGCTAGCTGCTAGCTGTACT",
+          "type": "del",
+          "pos": 11,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 65,
+      "avg_score": 0.732413255157992,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGGTCGTGTTTTGGCTTGCTGCAAGCTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGGTCGTGTTTTGGCTTGCTGCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCCACTGCTGCTGAAATCACATCCTGCTAGCAGATCA",
+          "type": "sub",
+          "pos": 19,
+          "base": "A"
+        },
+        {
+          "seq": "ATCCACAGGTGCTGATATCCCATCCTGCTAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 66,
+      "avg_score": 0.7334091673657464,
+      "max_score": 0.738,
+      "best_seq": "ATCCACAGGTGCTGATATCCCATCCTGCTAGCTGAACT",
+      "mutations_sample": [
+        {
+          "seq": "AGGGACTGGTCGTGTTTTGGCTTGCTGCAAGCTGAACT",
+          "type": "sub",
+          "pos": 1,
+          "base": "G"
+        },
+        {
+          "seq": "ATCCACAGGTGCTGATATCCCATCCTGCTAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGTTGGTGTTTTGGCTTGCAGCAAGCTGAACT",
+          "type": "sub",
+          "pos": 8,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 67,
+      "avg_score": 0.7308778835515678,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+      "mutations_sample": [
+        {
+          "seq": "ATCCACAGGTGCTGATATCCCATCCTGCTAGCTAACT",
+          "type": "del",
+          "pos": 33,
+          "base": "G"
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGGTGGTGATTTGGCAAGCTCCAAGCAGATCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTCGTGTTTTGGCTTGCTGCAAGCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 68,
+      "avg_score": 0.7329608026042237,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGATTGCTCCAAGCTGAACT",
+          "type": "sub",
+          "pos": 20,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGAGTGGGGGTGATTTGGCAAGCTCCAAGCAGATCA",
+          "type": "sub",
+          "pos": 9,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGGTCGTGTTTTGGCTTGCTGCAAGCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTATAGGCTTGCTCAAGCTGAACT",
+          "type": "del",
+          "pos": 26,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 69,
+      "avg_score": 0.7300306604175025,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGGTCGTGTTTTGGCTTGCTGCAAGCAGAACT",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCCGCTACCAGAACT",
+          "type": "sub",
+          "pos": 25,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGGTCGTGTTTTGGCTTGCTGCAAGCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGTGTGGTGGTGATTTGGCATGCTCCAAGCAGATCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTCCAAAGCTGCTGAAATCGCATCCTGCTACCAGAACT",
+          "type": "sub",
+          "pos": 5,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGACTGGTGCTGTTTTGGCTTGCTCCAAGCTGAACA",
+          "type": "sub",
+          "pos": 37,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 70,
+      "avg_score": 0.732255882603251,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGGAGCTGAATTGGCATCGTGCTAGCAGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTAGTCGTGTTTTGGCTTGCTGCAAGCAGAACT",
+          "type": "sub",
+          "pos": 7,
+          "base": "A"
+        },
+        {
+          "seq": "ATCGTGTGGTGGTGATTTGGCATGCTCCAAGCAGATCG",
+          "type": "sub",
+          "pos": 37,
+          "base": "G"
+        },
+        {
+          "seq": "ACGGACTGGTGCTGTTTTGGCTTGCTCCAAGCTGAACA",
+          "type": "sub",
+          "pos": 1,
+          "base": "C"
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCATCGTGCTAGCAGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 71,
+      "avg_score": 0.7323554908147013,
+      "max_score": 0.738,
+      "best_seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAAGCAGTACA",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGGAGTGAATTGGCATCGTGCTAGCAGTACT",
+          "type": "del",
+          "pos": 11,
+          "base": "C"
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCTTAACT",
+          "type": "sub",
+          "pos": 33,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAAGCAGTACA",
+          "type": "sub",
+          "pos": 35,
+          "base": "A"
+        },
+        {
+          "seq": "ATCGTGTGGTGGTGATTTGGCATGCCCCAAGCAGTTCT",
+          "type": "sub",
+          "pos": 25,
+          "base": "C"
+        },
+        {
+          "seq": "ATCGAGTGGTGGTGATTTGGCATGCTCCGAGCAGATCT",
+          "type": "sub",
+          "pos": 28,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 72,
+      "avg_score": 0.7324960918408286,
+      "max_score": 0.738,
+      "best_seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAAGCAGTACA",
+      "mutations_sample": [
+        {
+          "seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAAGCAGTACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTCGTGTTTGGGCTTGGTGCAAGCTGAACT",
+          "type": "sub",
+          "pos": 17,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACAGGTGGTGTTTTGGCCTGCTCCAAGCTGAACT",
+          "type": "sub",
+          "pos": 21,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAAGCT",
+          "type": "ins",
+          "pos": 36,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTATAGGCTTGCTGCAAGTGAAGT",
+          "type": "del",
+          "pos": 31,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 73,
+      "avg_score": 0.7305541993410415,
+      "max_score": 0.738,
+      "best_seq": "TTCCACAGCTGCTGAAATCGCATGCTGCTACCAGAACT",
+      "mutations_sample": [
+        {
+          "seq": "GTGGAGTGGTGCTGATTTGGCAAGCTCCAAGCAGTACA",
+          "type": "sub",
+          "pos": 0,
+          "base": "G"
+        },
+        {
+          "seq": "TTCCACAGCTGCTGAAATCGCATGCTGCTACCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGTGTGGCGCTGATTTGGCATGCTCCAAGCAGATCT",
+          "type": "sub",
+          "pos": 9,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTGGTGCTGTTTTGGCTTGCTCCAAGCTGAACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCTGAACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 74,
+      "avg_score": 0.7312844044449308,
+      "max_score": 0.738,
+      "best_seq": "ATGGACTGGTGCTGTTTTGGCTTGCTCCAAGCTGAACA",
+      "mutations_sample": [
+        {
+          "seq": "GTCCACAGCTGCTGAAATCGCATGCTGCTACCAGAACT",
+          "type": "sub",
+          "pos": 0,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGGTGCTGTTTTGGCTTGCTCCAAGCTGAACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCTGAACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCATCGTGCTAGCAGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCTTAACT",
+          "type": "sub",
+          "pos": 33,
+          "base": "T"
+        }
+      ]
+    },
+    {
+      "generation": 75,
+      "avg_score": 0.7332849123414913,
+      "max_score": 0.738,
+      "best_seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCTGAACA",
+      "mutations_sample": [
+        {
+          "seq": "ATGGACTGGATGCTGTTTTGGCTTGCTCCAAGCTGAACA",
+          "type": "ins",
+          "pos": 9,
+          "base": "A"
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTGCTACCTGAACA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCATCGTGCTAGCAGTACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAACCAGTTCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGTGTGGTGGTGATTTGGCATGCTCCAAGAAGTACT",
+          "type": "sub",
+          "pos": 31,
+          "base": "A"
+        }
+      ]
+    },
+    {
+      "generation": 76,
+      "avg_score": 0.733285125104862,
+      "max_score": 0.738,
+      "best_seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAACCAGTTCA",
+      "mutations_sample": [
+        {
+          "seq": "TTGCACAGCTGCTGAAATAGCATCCTGCTACCTGAACA",
+          "type": "sub",
+          "pos": 18,
+          "base": "A"
+        },
+        {
+          "seq": "TTGCACAGGAGCTGAATTGGCATTGTGCTAGCAGTACT",
+          "type": "sub",
+          "pos": 23,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAACCAGTTCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGAGGTGGTCATTTGGCAAGCTCCAAGCAGATCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATGCATCCTGCTACCTGAACT",
+          "type": "del",
+          "pos": 18,
+          "base": "C"
+        }
+      ]
+    },
+    {
+      "generation": 77,
+      "avg_score": 0.732314072473283,
+      "max_score": 0.738,
+      "best_seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAACCAGTTCA",
+      "mutations_sample": [
+        {
+          "seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAACCAGTTCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGAGGTGGTCATTTGGCAAGCTCCAAGCAGATCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGGTGCTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGACTGTGTGGTGTATAGGGTTGCTGCAAGCTGAACT",
+          "type": "ins",
+          "pos": 8,
+          "base": "T"
+        },
+        {
+          "seq": "TTCCACAGCTGCTGAAATCGCATGCTGCTACCAGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    },
+    {
+      "generation": 78,
+      "avg_score": 0.7321142177602704,
+      "max_score": 0.738,
+      "best_seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAACCAGTTCA",
+      "mutations_sample": [
+        {
+          "seq": "ATGGAGTGGTGCTGATTTGGCAAGCTCCAACCAGTTCA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGAGAGGTGGTCATTTGGCACGCTCCAAGCAGATCA",
+          "type": "sub",
+          "pos": 22,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGACTTGTGCTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "sub",
+          "pos": 7,
+          "base": "T"
+        },
+        {
+          "seq": "TTCCACAGCTGCTGACATCGCATGCTGCTACCAGAACT",
+          "type": "sub",
+          "pos": 15,
+          "base": "C"
+        },
+        {
+          "seq": "TTGCACACGAGCTGAATTGGGATCGTGCTAGCAGTACT",
+          "type": "sub",
+          "pos": 20,
+          "base": "G"
+        }
+      ]
+    },
+    {
+      "generation": 79,
+      "avg_score": 0.7312429861035125,
+      "max_score": 0.738,
+      "best_seq": "TTGCACACGTGCTGAATTGGGATCGTGCTAGCAGTACT",
+      "mutations_sample": [
+        {
+          "seq": "ATGGAGTGGTGCTGATCTTGGCAAGCTCCAACCAGTTCA",
+          "type": "ins",
+          "pos": 16,
+          "base": "C"
+        },
+        {
+          "seq": "TTGCACACGTGCTGAATTGGGATCGTGCTAGCAGTACT",
+          "type": "sub",
+          "pos": 9,
+          "base": "T"
+        },
+        {
+          "seq": "TTGCACAGCTGCTGAAATCGCATCCTACTACCTGAACA",
+          "type": "sub",
+          "pos": 26,
+          "base": "A"
+        },
+        {
+          "seq": "ATCGTGTGGTGGTGATTTGGCATGCTCCAAGCAGTGCT",
+          "type": "sub",
+          "pos": 35,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGACTGGTGGTGTTTTGGCTTGCTCCAAGCTGAACT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ]
+    }
+  ]
+}
