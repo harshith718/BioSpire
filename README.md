@@ -3,7 +3,8 @@
 BioSpire is a compact evolutionary simulation engine designed to explore how sequences mutate, adapt, and improve over generations.  
 It models mutation rates, selection pressure, evolutionary fitness scoring, and generates useful visualizations such as heatmaps and fitness curves.
 
-This project is part of a 6-project evolutionary research portfolio (BioSpire, EON, GeneFlux, EcoLens, BioGraph, Micro-ECs).
+This project is part of a 6-project evolutionary research portfolio  
+(BioSpire, EON, GeneFlux, EcoLens, BioGraph, Micro-ECs).
 
 ---
 
@@ -19,65 +20,65 @@ This project is part of a 6-project evolutionary research portfolio (BioSpire, E
 
 ## 📁 Project Structure
 
-Your current GitHub project places all files in the `code/` folder:
-
+```
 code/
-biospire_seq.py
-evolution_engine.py
-mutation_engine.py
-helper_functions.py
-run_evolution_plot.py
-example_petase.fasta
-evolution_log.json
+│── biospire_seq.py
+│── evolution_engine.py
+│── mutation_engine.py
+│── helper_functions.py
+│── run_evolution_plot.py
+│── example_petase.fasta
+│── evolution_log.json
 
 graphs/
-fitness_curve.png
-mutation_heatmap.png
-final_best_sequence.txt
+│── fitness_curve.png
+│── mutation_heatmap.png
+│── final_best_sequence.txt
 
 logs/
-evolution_log.json
-
+│── evolution_log.json
+```
 
 ---
 
 ## ▶️ How to Run
 
-### **1. Install Python (3.9 or above recommended)**  
-Check if installed:
+### **1. Install Python (3.9 or newer recommended)**  
+Check your version:
 ```bash
 python --version
-2. Install Dependencies
+```
 
-Inside the project folder run:
-
+### **2. Install Dependencies**
+Inside the project folder:
+```bash
 pip install numpy matplotlib
+```
 
-3. Run the full simulation
+### **3. Run the full BioSpire simulation**
+```bash
 python code/run_evolution_plot.py
-
+```
 
 This will:
 
-Run evolution
+- Run evolutionary simulation  
+- Generate graphs  
+- Save the best evolved sequence  
+- Save logs  
 
-Generate graphs
+### **Output files will appear in:**
 
-Save the best sequence
+**graphs/**
+- `fitness_curve.png` → Fitness score progression  
+- `mutation_heatmap.png` → Mutation distribution  
+- `final_best_sequence.txt` → Best evolved DNA sequence  
 
-Save logs
+**logs/**
+- `evolution_log.json` → Detailed step-by-step simulation log  
 
-Outputs appear in:
+---
 
-graphs/
+## 📜 License
+This project is open for educational and research use.
 
-logs/
-Example Output
-
-fitness_curve.png → Fitness score progression
-
-mutation_heatmap.png → Mutation distribution heatmap
-
-final_best_sequence.txt → Best evolved sequence
-
-evolution_log.json → Detailed log
