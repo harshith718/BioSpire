@@ -82,3 +82,6 @@ This will:
 ## 📜 License
 This project is open for educational and research use.
 
+## 🔗 Portfolio Link  
+Complete 6-project evolution research collection:  
+https://west-route-a3b.notion.site/BioGraph-Evolution-Research-Portfolio-2b69325d1ab1804dab15f731b8af6581?source=copy_link
